@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!-- Padding -->
+    <dimen name="padding_none">0dp</dimen>
+    <dimen name="padding_normal">16dp</dimen>
+
+    <!-- Margin -->
+    <dimen name="margin_small">8dp</dimen>
+
+    <!-- Text size -->
+    <dimen name="text_size_medium">18sp</dimen>
+    <dimen name="text_size_large">22sp</dimen>
+
+    <!-- Converter Currency Item -->
+    <dimen name="converter_currency_item_icon_size">40dp</dimen>
+</resources>

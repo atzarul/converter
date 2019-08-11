@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="primary">#E0E0E0</color>
+    <color name="primary_dark">#C0C0C0</color>
+    <color name="accent">#D81B60</color>
+
+    <!-- Converter Currency Item -->
+    <color name="converter_currency_item_currency_code_text_color">@android:color/black</color>
+    <color name="converter_currency_item_currency_name_text_color">@android:color/darker_gray</color>
+</resources>

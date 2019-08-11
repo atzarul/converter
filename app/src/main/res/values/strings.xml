@@ -1,0 +1,107 @@
+<resources>
+    <string name="app_name">Converter</string>
+
+    <!-- Currencies -->
+
+    <string name="currency_australian_dollar_code">AUD</string>
+    <string name="currency_australian_dollar_name">Australian Dollar</string>
+
+    <string name="currency_leva_code" translatable="false">BGN</string>
+    <string name="currency_leva_name">Leva</string>
+
+    <string name="currency_brazilian_real_code" translatable="false">BRL</string>
+    <string name="currency_brazilian_real_name">Brazilian Dollar</string>
+
+    <string name="currency_canadian_dollar_code" translatable="false">CAD</string>
+
+    <string name="currency_swiss_franc_code" translatable="false">CHF</string>
+    <string name="currency_swiss_franc_name">Swiss Franc</string>
+
+    <string name="currency_chinese_yuan_code" translatable="false">CNY</string>
+    <string name="currency_chinese_yuan_name">Chinese Yuan</string>
+
+    <string name="currency_czech_koruna_code" translatable="false">CZK</string>
+    <string name="currency_czech_koruna_name">Czech</string>
+
+    <string name="currency_danish_krone_code" translatable="false">DKK</string>
+    <string name="currency_danish_krone_name">Danish Krone</string>
+
+    <string name="currency_euro_code" translatable="false">EUR</string>
+    <string name="currency_euro_name">Euro</string>
+
+    <string name="currency_pound_sterling_code" translatable="false">GBP</string>
+    <string name="currency_pound_sterling_name">Pound Sterling</string>
+
+    <string name="currency_hong_kong_dollar_code" translatable="false">HKD</string>
+    <string name="currency_hong_kong_dollar_name">Hong Kong Dollar</string>
+
+    <string name="currency_croatian_kuna_code" translatable="false">HRK</string>
+    <string name="currency_croatian_kuna_name">Croatian Kuna</string>
+
+    <string name="currency_hungarian_forint_code" translatable="false">HUF</string>
+    <string name="currency_hungarian_forint_name">Hungarian Forint</string>
+
+    <string name="currency_indonesian_rupiah_code" translatable="false">IDR</string>
+    <string name="currency_indonesian_rupiah_name">Indonesian Rupiah</string>
+
+    <string name="currency_israeli_new_shekel_code" translatable="false">ILS</string>
+    <string name="currency_israeli_new_shekel_name">Israeli New Shekel</string>
+
+    <string name="currency_indian_rupee_code" translatable="false">INR</string>
+    <string name="currency_indian_rupee_name">Indian Rupee</string>
+
+    <string name="currency_icelandic_krona_code" translatable="false">ISK</string>
+    <string name="currency_icelandic_krona_name">Icelandic Krona</string>
+
+    <string name="currency_japanese_yen_code" translatable="false">JPY</string>
+    <string name="currency_japanese_yen_name">Japanese Yen</string>
+
+    <string name="currency_south_korean_won_code" translatable="false">KRW</string>
+    <string name="currency_south_korean_won_name">South Korean Won</string>
+
+    <string name="currency_mexican_peso_code" translatable="false">MXN</string>
+    <string name="currency_mexican_peso_name">Mexican Peso</string>
+
+    <string name="currency_malaysian_ringgit_code" translatable="false">MYR</string>
+    <string name="currency_malaysian_ringgit_name">Malaysian Ringgit</string>
+
+    <string name="currency_norwegian_krone_code" translatable="false">NOK</string>
+    <string name="currency_norwegian_krone_name">Norwegian Krone</string>
+
+    <string name="currency_new_zealand_dollar_code" translatable="false">NZD</string>
+    <string name="currency_new_zealand_dollar_name">New Zealand Dollar</string>
+
+    <string name="currency_philippine_peso_code" translatable="false">PHP</string>
+    <string name="currency_philippine_peso_name">Philippine Peso</string>
+
+    <string name="currency_polish_zloty_code" translatable="false">PLN</string>
+    <string name="currency_polish_zloty_name">Polish Zloty</string>
+
+    <string name="currency_romanian_leu_code" translatable="false">RON</string>
+    <string name="currency_romanian_leu_name">Romanian Leu</string>
+
+    <string name="currency_russian_ruble_code" translatable="false">RUB</string>
+    <string name="currency_russian_ruble_name">Russian Ruble</string>
+
+    <string name="currency_swedish_krona_code" translatable="false">SEK</string>
+    <string name="currency_swedish_krona_name">Swedish Krona</string>
+
+    <string name="currency_singapore_dollar_code" translatable="false">SGD</string>
+    <string name="currency_singapore_dollar_name">Singapore Dollar</string>
+
+    <string name="currency_thai_baht_code" translatable="false">THB</string>
+    <string name="currency_thai_baht_name">Thai Baht</string>
+
+    <string name="currency_turkish_lira_code" translatable="false">TRY</string>
+    <string name="currency_turkish_lira_name">Turkish Lira</string>
+
+    <string name="currency_united_states_dollar_code" translatable="false">USD</string>
+    <string name="currency_united_states_dollar_name">US Dollar</string>
+
+    <string name="currency_south_african_rand_code" translatable="false">ZAR</string>
+    <string name="currency_south_african_rand_name">South African Rand</string>
+
+    <string name="currency_unknown_code" translatable="false">UNKNOWN</string>
+    <string name="currency_unknown_name">Unknown</string>
+
+</resources>
